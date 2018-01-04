@@ -1,0 +1,5 @@
+Chrome = "E:\Siddhartha\Selenium\Browser Drivers\chromedriver_win32"
+
+IE= "E:\Siddhartha\Selenium\Browser Drivers\IEDriverServer_Win32_3.3.0"
+
+Firefox ="E:\Siddhartha\Selenium\Browser Drivers\geckodriver-v0.16.1-win64"

@@ -1,0 +1,28 @@
+                              Xpath
+..................................................................................
+
+Identify Xpath using single attribute = // tagname[@attribute-name="value1"]
+
+using multiple attribut =              //tagname[@attribute1="value1"][attribute2=�value2�]
+
+ using containts method =              //tagname[contains(@attribute,�value1�)]
+ 
+ using starts -with method	=         //tagname[starts-with(@attribute-name,��)]
+ 
+using following =	                   //tagname[@id=��]/following::input[1]
+
+using preceding node =	              //tagname[@id=��]/ preceding::input[1]
+
+using text =	                      //tagname[contains(text(),"Math2shine")] 
+
+************************************************************************************
+                                Css
+....................................................................................
+
+Using ID =	                #id
+Using Class =	            .class
+using single attribute =	tagname[attribute-name=�value1�]
+using multiple attribute =	tagname[attribute-name=�value1�][attribute2=�value2�]
+using containts =	        tagname[attribute*="value"] 
+using starts -with  =	    tagname[attribute^="value"] 
+using ends -with  =	        tagname[attribute$="value"] 

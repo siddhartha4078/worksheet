@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Test_Cases.Average_ScorepageLoadtime_SingleWorksheet">
+        <methods>
+          <include name="Login"/>
+          <include name="select_class"/>
+          <include name="click_on_bookandworksheet_hidder"/>
+          <include name="click_on_book"/>
+          <include name="tracerror"/>
+          <include name="click_on_assignmenttype"/>
+          <include name="teardown"/>
+          <include name="click_on_chapter"/>
+          <include name="click_on_worksheet"/>
+          <include name="calculate_avg"/>
+          <include name="Openbrowser"/>
+        </methods>
+      </class> <!-- Test_Cases.Average_ScorepageLoadtime_SingleWorksheet -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

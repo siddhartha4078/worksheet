@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="configuration.TestNG_Listners"/>
+  </listeners>
+  <test name="Test1(failed)">
+    <classes>
+      <class name="Test_Cases.History_Test2">
+        <methods>
+          <include name="check_score"/>
+          <include name="click_on_assignmenttype"/>
+          <include name="Login"/>
+          <include name="tracerror"/>
+          <include name="click_on_bookandworksheet_hidder"/>
+          <include name="teardown"/>
+          <include name="solve_worksheet"/>
+          <include name="select_class"/>
+          <include name="navigateback"/>
+          <include name="start_worksheet"/>
+          <include name="click_on_chapter"/>
+          <include name="click_on_worksheet"/>
+          <include name="Openbrowser"/>
+        </methods>
+      </class> <!-- Test_Cases.History_Test2 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
