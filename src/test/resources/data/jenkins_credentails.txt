@@ -1,0 +1,4 @@
+java -jar E:\Siddhartha\Selenium\jenkins.war --ajp13Port=-1 --httpPort=9090 
+QA_test
+mechsoft
+
