@@ -914,3 +914,681 @@
 2017-12-29 17:26:26,477 [main] INFO library.Log - Test started
 2017-12-29 17:45:38,778 [main] INFO library.Log - Test started
 2017-12-29 17:50:23,812 [main] INFO library.Log - Test started
+2018-01-05 10:18:03,530 [main] INFO library.Log - Test started
+2018-01-15 10:50:40,261 [main] INFO library.Log - Test started
+2018-01-15 10:58:56,240 [main] INFO library.Log - Test started
+2018-01-15 10:59:21,514 [main] INFO library.Log - Test finished
+2018-01-15 11:10:48,468 [main] INFO library.Log - Test started
+2018-01-15 11:11:13,198 [main] INFO library.Log - Test finished
+2018-01-15 11:12:21,482 [main] INFO library.Log - Test started
+2018-01-15 11:12:33,761 [main] INFO library.Log - Test finished
+2018-01-15 11:13:07,416 [main] INFO library.Log - Test started
+2018-01-15 11:48:04,809 [main] INFO library.Log - Test started
+2018-01-15 11:49:31,962 [main] INFO library.Log - Test finished
+2018-01-15 11:50:33,108 [main] INFO lib_methods.Log - Test started
+2018-01-15 11:50:51,349 [main] INFO lib_methods.Log - Test finished
+2018-01-15 11:51:45,802 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:07:11,165 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:07:28,905 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:07:52,364 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:08:10,289 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:08:29,103 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:14:18,778 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:14:39,977 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:15:00,667 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:16:00,022 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:16:18,319 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:18:49,677 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:19:08,580 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:19:34,939 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:19:54,550 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:20:24,190 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:25:28,155 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:26:08,214 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:26:21,548 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:26:39,615 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:27:38,567 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:28:07,720 [main] INFO lib_methods.Log - Test finished
+2018-01-15 12:30:43,808 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:52:05,303 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:56:04,763 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:57:27,503 [main] INFO lib_methods.Log - Test started
+2018-01-15 12:58:23,929 [main] INFO library.Log - Test started
+2018-01-15 12:58:34,157 [main] INFO library.Log - Test finished
+2018-01-15 12:59:26,425 [main] INFO library.Log - Test started
+2018-01-15 13:00:00,440 [main] INFO library.Log - Test finished
+2018-01-15 13:03:43,598 [main] INFO lib_methods.Log - Test started
+2018-01-15 13:04:09,599 [main] INFO lib_methods.Log - Test finished
+2018-01-15 14:27:10,581 [main] INFO lib_methods.Log - Test started
+2018-01-15 14:27:36,131 [main] INFO lib_methods.Log - Test finished
+2018-01-15 14:28:53,429 [main] INFO lib_methods.Log - Test started
+2018-01-15 14:30:38,113 [main] INFO lib_methods.Log - Test finished
+2018-01-15 14:37:24,821 [main] INFO lib_methods.Log - Test started
+2018-01-15 14:39:18,700 [main] INFO lib_methods.Log - Test finished
+2018-01-15 14:51:39,467 [main] INFO lib_methods.Log - Test started
+2018-01-15 14:53:24,038 [main] INFO lib_methods.Log - Test finished
+2018-01-15 14:55:05,188 [main] INFO lib_methods.Log - Test started
+2018-01-15 15:03:12,994 [main] INFO lib_methods.Log - Test finished
+2018-01-15 15:03:27,948 [main] INFO lib_methods.Log - Test started
+2018-01-15 15:05:26,901 [main] INFO lib_methods.Log - Test started
+2018-01-15 15:07:11,788 [main] INFO lib_methods.Log - Test finished
+2018-01-15 15:07:51,051 [main] INFO lib_methods.Log - Test started
+2018-01-15 15:13:34,615 [main] INFO lib_methods.Log - Test finished
+2018-01-15 15:20:44,193 [main] INFO lib_methods.Log - Test started
+2018-01-15 15:24:53,516 [main] INFO lib_methods.Log - Test finished
+2018-01-15 15:40:28,726 [main] INFO lib_methods.Log - Test started
+2018-01-15 15:42:11,790 [main] INFO lib_methods.Log - Test finished
+2018-01-15 15:56:43,481 [main] INFO lib_methods.Log - Test started
+2018-01-15 15:58:31,272 [main] INFO lib_methods.Log - Test finished
+2018-01-15 16:02:03,556 [main] INFO lib_methods.Log - Test started
+2018-01-15 16:02:03,651 [main] INFO lib_methods.Log - Test finished
+2018-01-15 16:04:12,105 [main] INFO lib_methods.Log - Test started
+2018-01-15 16:42:31,750 [main] INFO lib_methods.Log - Test started
+2018-01-15 16:42:31,851 [main] INFO lib_methods.Log - Test finished
+2018-01-15 16:44:10,631 [main] INFO lib_methods.Log - Test started
+2018-01-15 16:44:10,737 [main] INFO lib_methods.Log - Test finished
+2018-01-15 16:46:16,358 [main] INFO lib_methods.Log - Test started
+2018-01-15 16:46:16,468 [main] INFO lib_methods.Log - Test finished
+2018-01-15 16:50:20,077 [main] INFO lib_methods.Log - Test started
+2018-01-15 16:55:09,277 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:01:01,545 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:02:21,625 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:03:56,685 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:08:01,002 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:09:58,345 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:12:19,983 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:13:36,785 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:17:27,978 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:17:30,608 [main] INFO lib_methods.Log - Test finished
+2018-01-15 17:18:45,346 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:20:11,115 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:21:53,020 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:31:15,299 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:34:22,657 [main] INFO lib_methods.Log - Test started
+2018-01-15 17:37:17,690 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:05:44,284 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:06:36,388 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:12:01,842 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:20:09,499 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:25:17,233 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:34:42,935 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:38:54,754 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:54:15,883 [main] INFO lib_methods.Log - Test started
+2018-01-15 18:55:46,584 [main] INFO lib_methods.Log - Test started
+2018-01-15 19:02:42,339 [main] INFO lib_methods.Log - Test started
+2018-01-15 19:09:03,520 [main] INFO lib_methods.Log - Test started
+2018-01-16 09:31:45,884 [main] INFO lib_methods.Log - Test started
+2018-01-16 11:06:03,845 [main] INFO lib_methods.Log - Test started
+2018-01-16 13:04:21,101 [main] INFO lib_methods.Log - Test started
+2018-01-16 13:55:22,862 [Forwarding screenshot on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 [Forwarding screenshot on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 [Forwarding screenshot on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 [Forwarding screenshot on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 [Forwarding screenshot on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 [Forwarding screenshot on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 [Forwarding findElement on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 [Forwarding findElement on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 [Forwarding findElement on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 [Forwarding findElement on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 [Forwarding findElement on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 [Forwarding findElement on session f47b81fba3283b961c00f22ffb88cdcf to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 14:06:12,191 [main] INFO lib_methods.Log - Test started
+2018-01-16 14:34:35,967 [main] INFO lib_methods.Log - Test started
+2018-01-16 15:14:35,209 [main] INFO lib_methods.Log - Test started
+2018-01-16 15:48:57,082 [main] INFO lib_methods.Log - Test started
+2018-01-16 16:24:22,528 [main] INFO lib_methods.Log - Test started
+2018-01-16 17:03:12,164 [main] INFO lib_methods.Log - Test started
+2018-01-16 17:20:24,225 [main] INFO lib_methods.Log - Test started
+2018-01-16 18:01:12,930 [main] INFO lib_methods.Log - Test started
+2018-01-17 10:33:34,951 [main] INFO lib_methods.Log - Test started
+2018-01-17 11:45:59,439 [main] INFO lib_methods.Log - Test finished
+2018-01-17 11:54:02,885 [main] INFO lib_methods.Log - Test started
+2018-01-17 14:17:12,465 [main] INFO lib_methods.Log - Test started
+2018-01-17 15:34:11,254 [main] INFO lib_methods.Log - Test started
+2018-01-17 16:11:19,440 [main] INFO lib_methods.Log - Test started
+2018-01-17 17:18:51,442 [main] INFO lib_methods.Log - Test started
+2018-01-17 19:08:59,158 [main] INFO lib_methods.Log - Test started
+2018-01-18 11:10:15,260 [main] INFO lib_methods.Log - Test started
+2018-01-18 14:14:52,095 [main] INFO lib_methods.Log - Test started
+2018-01-18 14:57:40,776 [main] INFO lib_methods.Log - Test started
+2018-01-18 14:57:40,808 [main] INFO lib_methods.Log - Test finished
+2018-01-18 15:00:54,222 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:01:23,542 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:07:00,841 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:07:24,410 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:22:50,303 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:24:30,266 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:25:19,231 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:27:15,750 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:27:34,284 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:40:22,867 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:42:07,851 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:46:10,705 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:55:26,565 [main] INFO lib_methods.Log - Test started
+2018-01-18 15:59:15,124 [main] INFO lib_methods.Log - Test started
+2018-01-18 16:09:12,731 [main] INFO lib_methods.Log - Test started
+2018-01-18 16:11:50,326 [main] INFO lib_methods.Log - Test started
+2018-01-18 16:15:03,086 [main] INFO lib_methods.Log - Test started
+2018-01-18 16:16:16,069 [main] INFO lib_methods.Log - Test started
+2018-01-18 17:48:09,234 [main] INFO lib_methods.Log - Test started
+2018-01-18 17:59:24,449 [main] INFO lib_methods.Log - Test started
+2018-01-18 18:10:23,573 [main] INFO lib_methods.Log - Test started
+2018-01-18 18:11:57,649 [main] INFO lib_methods.Log - Test started
+2018-01-18 18:40:53,859 [main] INFO lib_methods.Log - Test started
+2018-01-18 18:44:59,771 [main] INFO lib_methods.Log - Test started
+2018-01-18 18:47:48,190 [Forwarding isElementDisplayed on session 01b8cd644c63c41e3a6347f56fd727fd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:3004: Connection reset
+2018-01-18 18:47:50,601 [Forwarding isElementDisplayed on session 01b8cd644c63c41e3a6347f56fd727fd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://localhost:3004
+2018-01-19 10:08:30,098 [main] INFO lib_methods.Log - Test started
+2018-01-19 10:58:59,116 [main] INFO lib_methods.Log - Test started
+2018-01-19 11:01:11,243 [main] INFO lib_methods.Log - Test started
+2018-01-19 11:09:23,313 [main] INFO lib_methods.Log - Test started
+2018-01-19 11:19:34,241 [main] INFO lib_methods.Log - Test started
+2018-01-19 11:41:27,811 [main] INFO lib_methods.Log - Test started
+2018-01-19 11:41:53,801 [main] INFO lib_methods.Log - Test started
+2018-01-19 11:45:18,562 [main] INFO lib_methods.Log - Test started
+2018-01-19 11:47:00,264 [main] INFO lib_methods.Log - Test started
+2018-01-19 11:53:13,566 [main] INFO lib_methods.Log - Test started
+2018-01-19 12:03:11,191 [main] INFO lib_methods.Log - Test started
+2018-01-19 12:07:42,019 [main] INFO lib_methods.Log - Test started
+2018-01-19 12:09:13,729 [main] INFO lib_methods.Log - Test finished
+2018-01-19 12:22:07,084 [main] INFO lib_methods.Log - Test started
+2018-01-19 12:23:40,074 [main] INFO lib_methods.Log - Test started
+2018-01-19 14:07:21,950 [main] INFO lib_methods.Log - Test started
+2018-01-19 14:22:13,198 [main] INFO lib_methods.Log - Test started
+2018-01-19 16:42:36,999 [main] INFO lib_methods.Log - Test started
+2018-01-19 16:45:33,583 [main] INFO lib_methods.Log - Test started
+2018-01-19 16:54:46,114 [main] INFO lib_methods.Log - Test finished
+2018-01-19 16:55:21,659 [main] INFO lib_methods.Log - Test finished
+2018-01-22 06:31:08,524 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:08,526 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,687 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,687 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,688 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,688 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,692 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,693 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,698 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,699 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,699 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,699 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,715 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,715 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,736 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,737 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,738 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,738 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,570 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,570 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,572 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,573 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,573 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,575 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,749 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,749 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,750 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,750 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,750 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,751 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:13,675 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:13,675 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:13,686 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:13,686 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:13,696 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:13,696 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:15,998 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:15,998 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,010 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,010 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,012 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,012 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,019 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,019 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,069 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,070 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,072 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,073 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,097 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,100 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,101 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,104 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,104 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,105 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,110 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,111 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,112 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,112 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,113 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,113 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,119 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,120 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,121 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,122 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,123 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,124 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,184 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,185 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,185 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,186 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,186 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,186 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,225 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,225 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,236 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,236 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,237 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,237 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,251 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,251 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,252 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,252 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,253 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,253 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,279 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,280 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,281 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,281 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,282 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,282 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,304 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,307 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,318 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,319 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,320 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,320 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,325 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,325 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,326 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,326 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,327 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,328 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,332 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,332 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,333 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,334 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,334 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,335 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,412 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,418 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,419 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,420 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,422 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,423 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,471 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,472 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,473 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,473 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,474 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,474 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,488 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,488 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,489 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,490 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,490 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,491 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,610 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,615 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,617 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,617 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,619 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,619 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,812 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,813 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,813 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,813 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,814 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,814 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,827 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,827 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,828 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,828 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,829 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,829 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,850 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,850 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,851 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,852 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,852 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,853 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,869 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,869 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,870 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,870 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,871 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,871 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,880 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,881 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,882 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,882 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,883 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,883 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,900 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,900 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,901 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,902 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,902 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,903 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,916 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,917 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,917 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,917 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,918 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,918 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,922 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,922 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,923 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,923 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,924 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,924 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,959 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,959 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,960 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,960 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,961 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,961 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,130 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,130 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,132 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,133 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,133 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,134 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,173 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,173 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,174 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,174 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,175 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,175 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,178 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,179 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,180 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,180 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,191 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,191 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,205 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,205 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,206 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,206 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,206 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,207 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,210 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,211 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,212 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,212 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,213 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,213 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,218 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,218 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,219 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,220 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,221 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,221 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,226 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,226 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,228 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,228 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,229 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,229 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,240 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,240 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,241 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,241 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,242 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,242 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,246 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,247 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,248 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,248 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,249 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,249 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,253 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,254 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,254 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,255 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,255 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,256 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,390 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,390 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,391 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,392 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,392 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,393 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,456 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,457 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,458 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,460 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,461 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,461 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,466 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,466 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,467 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,467 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,468 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,469 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,500 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,500 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,501 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,502 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,503 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,503 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,602 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,602 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,603 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,604 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,605 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,605 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,665 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,665 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,676 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,677 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,677 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,678 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,704 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,704 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,707 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,707 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,708 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,708 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,732 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,732 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,733 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,733 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,744 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,744 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,747 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,747 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,758 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,758 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,759 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,759 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,761 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,761 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,762 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,762 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,762 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,762 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,765 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,765 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,766 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,766 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,766 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,766 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,785 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,785 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,786 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,786 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,787 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,787 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,801 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,801 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,802 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,803 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,804 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,804 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,808 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,808 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,809 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,809 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,810 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,810 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,813 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,813 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,813 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,814 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,824 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,824 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,849 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,849 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,850 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,850 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,851 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,851 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,884 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,884 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,885 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,885 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,886 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,886 [Forwarding findElement on session 154f9e19e9d7b570cc9ef2a5ecdca3cd to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,890 [main] INFO lib_methods.Log - Test finished
+2018-01-29 11:16:13,711 [main] INFO lib_methods.Log - Test started
+2018-01-29 13:56:57,311 [main] INFO lib_methods.Log - Test finished
+2018-01-29 14:06:43,856 [main] INFO lib_methods.Log - Test started
+2018-01-29 14:45:29,392 [main] INFO lib_methods.Log - Test finished
+2018-01-29 15:41:05,073 [main] INFO lib_methods.Log - Test started
+2018-01-29 15:58:22,291 [main] INFO lib_methods.Log - Test started
+2018-01-29 16:06:24,226 [main] INFO lib_methods.Log - Test finished
+2018-01-29 16:08:18,118 [main] INFO lib_methods.Log - Test started
+2018-01-29 16:09:22,238 [main] INFO lib_methods.Log - Test finished
+2018-01-29 16:24:07,152 [main] INFO lib_methods.Log - Test started
+2018-01-29 16:26:09,324 [main] INFO lib_methods.Log - Test started
+2018-01-29 16:51:31,129 [main] INFO lib_methods.Log - Test finished
+2018-01-29 17:06:53,192 [main] INFO lib_methods.Log - Test started
+2018-01-29 17:11:45,209 [main] INFO lib_methods.Log - Test started
+2018-01-29 17:12:58,123 [main] INFO lib_methods.Log - Test started
+2018-01-29 17:18:59,823 [main] INFO lib_methods.Log - Test started
+2018-01-29 17:30:00,776 [main] INFO lib_methods.Log - Test started
+2018-01-29 17:32:38,542 [main] INFO lib_methods.Log - Test started
+2018-01-29 17:37:39,140 [main] INFO lib_methods.Log - Test started
+2018-01-29 17:44:22,668 [main] INFO lib_methods.Log - Test started
+2018-01-29 17:46:25,826 [main] INFO lib_methods.Log - Test started
+2018-01-30 10:20:56,385 [main] INFO lib_methods.Log - Test started
+2018-01-30 10:46:44,167 [main] INFO lib_methods.Log - Test finished
+2018-01-30 11:35:51,764 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:19:42,062 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:19:42,910 [main] INFO lib_methods.Log - Test finished
+2018-01-30 12:20:39,000 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:20:39,398 [main] INFO lib_methods.Log - Test finished
+2018-01-30 12:21:49,430 [main] INFO lib_methods.Log - Test finished
+2018-01-30 12:26:15,994 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:29:19,014 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:30:44,576 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:33:14,786 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:34:36,451 [main] INFO lib_methods.Log - Test finished
+2018-01-30 12:36:16,284 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:37:59,070 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:39:24,717 [main] INFO lib_methods.Log - Test started
+2018-01-30 12:50:00,471 [main] INFO lib_methods.Log - Test finished
+2018-01-30 14:32:13,179 [main] INFO lib_methods.Log - Test started
+2018-01-30 16:24:19,730 [main] INFO lib_methods.Log - Test started
+2018-01-30 16:24:19,741 [main] INFO lib_methods.Log - Test finished
+2018-01-30 16:25:28,984 [main] INFO lib_methods.Log - Test started
+2018-01-31 09:56:08,129 [main] INFO lib_methods.Log - Test started
+2018-01-31 10:15:05,358 [main] INFO lib_methods.Log - Test started
+2018-01-31 10:28:10,995 [main] INFO lib_methods.Log - Test started
+2018-01-31 11:32:37,145 [main] INFO lib_methods.Log - Test started
+2018-01-31 12:38:56,577 [main] INFO lib_methods.Log - Test started
+2018-01-31 12:43:33,760 [main] INFO lib_methods.Log - Test started
+2018-01-31 12:45:10,931 [main] INFO lib_methods.Log - Test started
+2018-01-31 12:47:28,832 [main] INFO lib_methods.Log - Test started
+2018-01-31 12:59:02,930 [main] INFO lib_methods.Log - Test started
+2018-01-31 13:00:48,176 [main] INFO lib_methods.Log - Test started
+2018-01-31 13:01:36,164 [main] INFO lib_methods.Log - Test finished
+2018-01-31 13:03:16,890 [main] INFO lib_methods.Log - Test started
+2018-01-31 13:04:53,557 [main] INFO lib_methods.Log - Test started
+2018-01-31 13:06:01,204 [main] INFO lib_methods.Log - Test started
+2018-01-31 13:06:34,410 [main] INFO lib_methods.Log - Test started
+2018-01-31 14:12:21,594 [main] INFO lib_methods.Log - Test started
+2018-01-31 14:17:18,778 [main] INFO lib_methods.Log - Test started
+2018-01-31 14:19:32,248 [main] INFO lib_methods.Log - Test started
+2018-01-31 17:53:35,726 [main] INFO lib_methods.Log - Test finished
+2018-01-31 17:58:37,280 [main] INFO lib_methods.Log - Test started
+2018-01-31 18:05:39,830 [main] INFO lib_methods.Log - Test started
+2018-01-31 18:09:33,967 [main] INFO lib_methods.Log - Test started
+2018-01-31 18:15:17,328 [main] INFO lib_methods.Log - Test started
+2018-01-31 18:17:27,691 [main] INFO lib_methods.Log - Test started
+2018-01-31 18:19:45,040 [main] INFO lib_methods.Log - Test started
+2018-01-31 18:22:04,552 [main] INFO lib_methods.Log - Test started
+2018-02-01 09:59:19,059 [main] INFO lib_methods.Log - Test started
+2018-02-01 10:02:10,188 [main] INFO lib_methods.Log - Test started
+2018-02-01 10:48:16,734 [main] INFO lib_methods.Log - Test started
+2018-02-01 10:48:37,444 [main] INFO lib_methods.Log - Test started
+2018-02-01 10:48:37,715 [TestNG] INFO lib_methods.Log - Test finished
+2018-02-01 10:51:33,449 [main] INFO lib_methods.Log - Test started
+2018-02-01 10:51:51,791 [main] INFO lib_methods.Log - Test started
+2018-02-01 10:51:51,971 [TestNG] INFO lib_methods.Log - Test finished
+2018-02-01 10:59:08,279 [main] INFO lib_methods.Log - Test started
+2018-02-01 10:59:27,700 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:03:28,110 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:07:45,540 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:11:22,509 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:38:03,981 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:38:24,825 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:43:41,360 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:49:18,703 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:49:37,788 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:49:38,007 [TestNG] INFO lib_methods.Log - Test finished
+2018-02-01 11:55:10,842 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:55:28,435 [main] INFO lib_methods.Log - Test started
+2018-02-01 11:58:51,437 [main] INFO lib_methods.Log - Test started
+2018-02-01 12:01:44,538 [main] INFO lib_methods.Log - Test finished
+2018-02-01 12:08:44,179 [main] INFO lib_methods.Log - Test started
+2018-02-01 12:09:02,511 [main] INFO lib_methods.Log - Test started
+2018-02-01 12:14:25,799 [main] INFO lib_methods.Log - Test started
+2018-02-01 12:14:44,326 [main] INFO lib_methods.Log - Test started
+2018-02-01 12:14:44,515 [TestNG] INFO lib_methods.Log - Test finished
+2018-02-01 12:17:17,080 [main] INFO lib_methods.Log - Test started
+2018-02-01 12:17:36,168 [main] INFO lib_methods.Log - Test started
+2018-02-01 13:28:20,487 [main] INFO lib_methods.Log - Test started
+2018-02-01 13:28:37,342 [main] INFO lib_methods.Log - Test started
+2018-02-01 13:29:37,824 [main] INFO lib_methods.Log - Test started
+2018-02-01 13:31:04,606 [main] INFO lib_methods.Log - Test started
+2018-02-01 13:31:20,917 [main] INFO lib_methods.Log - Test started
+2018-02-01 13:37:17,069 [main] INFO lib_methods.Log - Test started
+2018-02-01 13:37:35,702 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:08:37,236 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:34:35,788 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:34:54,427 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:42:02,405 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:43:18,205 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:55:16,191 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:55:35,968 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:55:36,138 [TestNG] INFO lib_methods.Log - Test finished
+2018-02-01 14:58:46,570 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:59:06,594 [main] INFO lib_methods.Log - Test started
+2018-02-01 14:59:06,790 [TestNG] INFO lib_methods.Log - Test finished
+2018-02-01 14:59:13,664 [main] INFO lib_methods.Log - Test started
+2018-02-01 15:07:27,697 [main] INFO lib_methods.Log - Test started
+2018-02-01 15:07:46,785 [main] INFO lib_methods.Log - Test started
+2018-02-01 15:07:46,923 [TestNG] INFO lib_methods.Log - Test finished
+2018-02-01 15:09:12,852 [main] INFO lib_methods.Log - Test started
+2018-02-01 15:21:52,994 [main] INFO lib_methods.Log - Test started
+2018-02-01 15:37:22,053 [main] INFO lib_methods.Log - Test started
+2018-02-01 16:20:52,222 [main] INFO lib_methods.Log - Test started
+2018-02-01 16:59:50,212 [main] INFO lib_methods.Log - Test finished
+2018-02-01 17:20:01,932 [main] INFO lib_methods.Log - Test started
+2018-02-02 06:58:44,183 [main] INFO lib_methods.Log - Test finished
+2018-02-02 09:33:04,621 [main] INFO lib_methods.Log - Test started
+2018-02-02 09:50:01,481 [main] INFO lib_methods.Log - Test started
+2018-02-02 09:50:17,058 [main] INFO lib_methods.Log - Test started
+2018-02-02 09:55:44,212 [main] INFO lib_methods.Log - Test finished
+2018-02-02 09:56:09,728 [main] INFO lib_methods.Log - Test started
+2018-02-02 10:11:13,500 [main] INFO lib_methods.Log - Test started
+2018-02-02 10:12:44,360 [main] INFO lib_methods.Log - Test started
+2018-02-02 10:21:50,790 [main] INFO lib_methods.Log - Test started
+2018-02-02 10:22:25,501 [main] INFO lib_methods.Log - Test started
+2018-02-02 10:24:50,948 [main] INFO lib_methods.Log - Test started
+2018-02-02 10:28:26,223 [main] INFO lib_methods.Log - Test started
+2018-02-02 10:58:56,608 [main] INFO lib_methods.Log - Test finished
+2018-02-02 11:09:52,274 [main] INFO lib_methods.Log - Test started
+2018-02-02 11:18:04,267 [main] INFO lib_methods.Log - Test started
+2018-02-02 11:27:06,839 [main] INFO lib_methods.Log - Test started
+2018-02-02 11:54:23,886 [main] INFO lib_methods.Log - Test started
+2018-02-02 12:40:47,351 [main] INFO lib_methods.Log - Test started

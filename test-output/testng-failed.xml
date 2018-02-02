@@ -3,21 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Test_Cases.Average_ScorepageLoadtime_SingleWorksheet">
+      <class name="Test_Cases.error">
         <methods>
-          <include name="Login"/>
-          <include name="select_class"/>
-          <include name="click_on_bookandworksheet_hidder"/>
-          <include name="click_on_book"/>
-          <include name="tracerror"/>
-          <include name="click_on_assignmenttype"/>
-          <include name="teardown"/>
-          <include name="click_on_chapter"/>
-          <include name="click_on_worksheet"/>
-          <include name="calculate_avg"/>
           <include name="Openbrowser"/>
+          <include name="RunTest" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10 11 12 13 14"/>
         </methods>
-      </class> <!-- Test_Cases.Average_ScorepageLoadtime_SingleWorksheet -->
+      </class> <!-- Test_Cases.error -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

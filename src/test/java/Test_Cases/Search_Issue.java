@@ -3,9 +3,10 @@ package Test_Cases;
 import org.openqa.selenium.Alert;
 import org.testng.annotations.Test;
 
-import configuration.TestNg_Config;
+import config.Configuration;
 
-public class Search_Issue extends TestNg_Config {
+
+public class Search_Issue extends Configuration {
 
 	public void Login(String username) throws InterruptedException {
 

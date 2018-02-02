@@ -3,12 +3,14 @@ package library;
 import java.io.File;
 import java.io.IOException;
 
-import org.apache.commons.io.FileUtils;
+//import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.ITestResult;
+
+import com.google.common.io.Files;
 
 public class Screenshot {
 
@@ -29,7 +31,7 @@ public class Screenshot {
 			
 			String dest="E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\screenshot\\"+Screenshotname+".jpeg";
 					
-			FileUtils.copyFile(sc, new File(dest));
+			Files.copy(sc, new File(dest));
 		
 	
 			

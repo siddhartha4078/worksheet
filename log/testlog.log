@@ -914,3 +914,681 @@
 2017-12-29 17:26:26,477 - library.Log -INFO - Test started
 2017-12-29 17:45:38,778 - library.Log -INFO - Test started
 2017-12-29 17:50:23,812 - library.Log -INFO - Test started
+2018-01-05 10:18:03,530 - library.Log -INFO - Test started
+2018-01-15 10:50:40,261 - library.Log -INFO - Test started
+2018-01-15 10:58:56,240 - library.Log -INFO - Test started
+2018-01-15 10:59:21,514 - library.Log -INFO - Test finished
+2018-01-15 11:10:48,468 - library.Log -INFO - Test started
+2018-01-15 11:11:13,198 - library.Log -INFO - Test finished
+2018-01-15 11:12:21,482 - library.Log -INFO - Test started
+2018-01-15 11:12:33,761 - library.Log -INFO - Test finished
+2018-01-15 11:13:07,416 - library.Log -INFO - Test started
+2018-01-15 11:48:04,809 - library.Log -INFO - Test started
+2018-01-15 11:49:31,962 - library.Log -INFO - Test finished
+2018-01-15 11:50:33,108 - lib_methods.Log -INFO - Test started
+2018-01-15 11:50:51,349 - lib_methods.Log -INFO - Test finished
+2018-01-15 11:51:45,802 - lib_methods.Log -INFO - Test started
+2018-01-15 12:07:11,165 - lib_methods.Log -INFO - Test started
+2018-01-15 12:07:28,905 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:07:52,364 - lib_methods.Log -INFO - Test started
+2018-01-15 12:08:10,289 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:08:29,103 - lib_methods.Log -INFO - Test started
+2018-01-15 12:14:18,778 - lib_methods.Log -INFO - Test started
+2018-01-15 12:14:39,977 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:15:00,667 - lib_methods.Log -INFO - Test started
+2018-01-15 12:16:00,022 - lib_methods.Log -INFO - Test started
+2018-01-15 12:16:18,319 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:18:49,677 - lib_methods.Log -INFO - Test started
+2018-01-15 12:19:08,580 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:19:34,939 - lib_methods.Log -INFO - Test started
+2018-01-15 12:19:54,550 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:20:24,190 - lib_methods.Log -INFO - Test started
+2018-01-15 12:25:28,155 - lib_methods.Log -INFO - Test started
+2018-01-15 12:26:08,214 - lib_methods.Log -INFO - Test started
+2018-01-15 12:26:21,548 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:26:39,615 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:27:38,567 - lib_methods.Log -INFO - Test started
+2018-01-15 12:28:07,720 - lib_methods.Log -INFO - Test finished
+2018-01-15 12:30:43,808 - lib_methods.Log -INFO - Test started
+2018-01-15 12:52:05,303 - lib_methods.Log -INFO - Test started
+2018-01-15 12:56:04,763 - lib_methods.Log -INFO - Test started
+2018-01-15 12:57:27,503 - lib_methods.Log -INFO - Test started
+2018-01-15 12:58:23,929 - library.Log -INFO - Test started
+2018-01-15 12:58:34,157 - library.Log -INFO - Test finished
+2018-01-15 12:59:26,425 - library.Log -INFO - Test started
+2018-01-15 13:00:00,440 - library.Log -INFO - Test finished
+2018-01-15 13:03:43,598 - lib_methods.Log -INFO - Test started
+2018-01-15 13:04:09,599 - lib_methods.Log -INFO - Test finished
+2018-01-15 14:27:10,581 - lib_methods.Log -INFO - Test started
+2018-01-15 14:27:36,131 - lib_methods.Log -INFO - Test finished
+2018-01-15 14:28:53,429 - lib_methods.Log -INFO - Test started
+2018-01-15 14:30:38,113 - lib_methods.Log -INFO - Test finished
+2018-01-15 14:37:24,821 - lib_methods.Log -INFO - Test started
+2018-01-15 14:39:18,700 - lib_methods.Log -INFO - Test finished
+2018-01-15 14:51:39,467 - lib_methods.Log -INFO - Test started
+2018-01-15 14:53:24,038 - lib_methods.Log -INFO - Test finished
+2018-01-15 14:55:05,188 - lib_methods.Log -INFO - Test started
+2018-01-15 15:03:12,994 - lib_methods.Log -INFO - Test finished
+2018-01-15 15:03:27,948 - lib_methods.Log -INFO - Test started
+2018-01-15 15:05:26,901 - lib_methods.Log -INFO - Test started
+2018-01-15 15:07:11,788 - lib_methods.Log -INFO - Test finished
+2018-01-15 15:07:51,051 - lib_methods.Log -INFO - Test started
+2018-01-15 15:13:34,615 - lib_methods.Log -INFO - Test finished
+2018-01-15 15:20:44,193 - lib_methods.Log -INFO - Test started
+2018-01-15 15:24:53,516 - lib_methods.Log -INFO - Test finished
+2018-01-15 15:40:28,726 - lib_methods.Log -INFO - Test started
+2018-01-15 15:42:11,790 - lib_methods.Log -INFO - Test finished
+2018-01-15 15:56:43,481 - lib_methods.Log -INFO - Test started
+2018-01-15 15:58:31,272 - lib_methods.Log -INFO - Test finished
+2018-01-15 16:02:03,556 - lib_methods.Log -INFO - Test started
+2018-01-15 16:02:03,651 - lib_methods.Log -INFO - Test finished
+2018-01-15 16:04:12,105 - lib_methods.Log -INFO - Test started
+2018-01-15 16:42:31,750 - lib_methods.Log -INFO - Test started
+2018-01-15 16:42:31,851 - lib_methods.Log -INFO - Test finished
+2018-01-15 16:44:10,631 - lib_methods.Log -INFO - Test started
+2018-01-15 16:44:10,737 - lib_methods.Log -INFO - Test finished
+2018-01-15 16:46:16,358 - lib_methods.Log -INFO - Test started
+2018-01-15 16:46:16,468 - lib_methods.Log -INFO - Test finished
+2018-01-15 16:50:20,077 - lib_methods.Log -INFO - Test started
+2018-01-15 16:55:09,277 - lib_methods.Log -INFO - Test started
+2018-01-15 17:01:01,545 - lib_methods.Log -INFO - Test started
+2018-01-15 17:02:21,625 - lib_methods.Log -INFO - Test started
+2018-01-15 17:03:56,685 - lib_methods.Log -INFO - Test started
+2018-01-15 17:08:01,002 - lib_methods.Log -INFO - Test started
+2018-01-15 17:09:58,345 - lib_methods.Log -INFO - Test started
+2018-01-15 17:12:19,983 - lib_methods.Log -INFO - Test started
+2018-01-15 17:13:36,785 - lib_methods.Log -INFO - Test started
+2018-01-15 17:17:27,978 - lib_methods.Log -INFO - Test started
+2018-01-15 17:17:30,608 - lib_methods.Log -INFO - Test finished
+2018-01-15 17:18:45,346 - lib_methods.Log -INFO - Test started
+2018-01-15 17:20:11,115 - lib_methods.Log -INFO - Test started
+2018-01-15 17:21:53,020 - lib_methods.Log -INFO - Test started
+2018-01-15 17:31:15,299 - lib_methods.Log -INFO - Test started
+2018-01-15 17:34:22,657 - lib_methods.Log -INFO - Test started
+2018-01-15 17:37:17,690 - lib_methods.Log -INFO - Test started
+2018-01-15 18:05:44,284 - lib_methods.Log -INFO - Test started
+2018-01-15 18:06:36,388 - lib_methods.Log -INFO - Test started
+2018-01-15 18:12:01,842 - lib_methods.Log -INFO - Test started
+2018-01-15 18:20:09,499 - lib_methods.Log -INFO - Test started
+2018-01-15 18:25:17,233 - lib_methods.Log -INFO - Test started
+2018-01-15 18:34:42,935 - lib_methods.Log -INFO - Test started
+2018-01-15 18:38:54,754 - lib_methods.Log -INFO - Test started
+2018-01-15 18:54:15,883 - lib_methods.Log -INFO - Test started
+2018-01-15 18:55:46,584 - lib_methods.Log -INFO - Test started
+2018-01-15 19:02:42,339 - lib_methods.Log -INFO - Test started
+2018-01-15 19:09:03,520 - lib_methods.Log -INFO - Test started
+2018-01-16 09:31:45,884 - lib_methods.Log -INFO - Test started
+2018-01-16 11:06:03,845 - lib_methods.Log -INFO - Test started
+2018-01-16 13:04:21,101 - lib_methods.Log -INFO - Test started
+2018-01-16 13:55:22,862 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.120:5566: No route to host: connect
+2018-01-16 13:55:24,053 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.120:5566
+2018-01-16 14:06:12,191 - lib_methods.Log -INFO - Test started
+2018-01-16 14:34:35,967 - lib_methods.Log -INFO - Test started
+2018-01-16 15:14:35,209 - lib_methods.Log -INFO - Test started
+2018-01-16 15:48:57,082 - lib_methods.Log -INFO - Test started
+2018-01-16 16:24:22,528 - lib_methods.Log -INFO - Test started
+2018-01-16 17:03:12,164 - lib_methods.Log -INFO - Test started
+2018-01-16 17:20:24,225 - lib_methods.Log -INFO - Test started
+2018-01-16 18:01:12,930 - lib_methods.Log -INFO - Test started
+2018-01-17 10:33:34,951 - lib_methods.Log -INFO - Test started
+2018-01-17 11:45:59,439 - lib_methods.Log -INFO - Test finished
+2018-01-17 11:54:02,885 - lib_methods.Log -INFO - Test started
+2018-01-17 14:17:12,465 - lib_methods.Log -INFO - Test started
+2018-01-17 15:34:11,254 - lib_methods.Log -INFO - Test started
+2018-01-17 16:11:19,440 - lib_methods.Log -INFO - Test started
+2018-01-17 17:18:51,442 - lib_methods.Log -INFO - Test started
+2018-01-17 19:08:59,158 - lib_methods.Log -INFO - Test started
+2018-01-18 11:10:15,260 - lib_methods.Log -INFO - Test started
+2018-01-18 14:14:52,095 - lib_methods.Log -INFO - Test started
+2018-01-18 14:57:40,776 - lib_methods.Log -INFO - Test started
+2018-01-18 14:57:40,808 - lib_methods.Log -INFO - Test finished
+2018-01-18 15:00:54,222 - lib_methods.Log -INFO - Test started
+2018-01-18 15:01:23,542 - lib_methods.Log -INFO - Test started
+2018-01-18 15:07:00,841 - lib_methods.Log -INFO - Test started
+2018-01-18 15:07:24,410 - lib_methods.Log -INFO - Test started
+2018-01-18 15:22:50,303 - lib_methods.Log -INFO - Test started
+2018-01-18 15:24:30,266 - lib_methods.Log -INFO - Test started
+2018-01-18 15:25:19,231 - lib_methods.Log -INFO - Test started
+2018-01-18 15:27:15,750 - lib_methods.Log -INFO - Test started
+2018-01-18 15:27:34,284 - lib_methods.Log -INFO - Test started
+2018-01-18 15:40:22,867 - lib_methods.Log -INFO - Test started
+2018-01-18 15:42:07,851 - lib_methods.Log -INFO - Test started
+2018-01-18 15:46:10,705 - lib_methods.Log -INFO - Test started
+2018-01-18 15:55:26,565 - lib_methods.Log -INFO - Test started
+2018-01-18 15:59:15,124 - lib_methods.Log -INFO - Test started
+2018-01-18 16:09:12,731 - lib_methods.Log -INFO - Test started
+2018-01-18 16:11:50,326 - lib_methods.Log -INFO - Test started
+2018-01-18 16:15:03,086 - lib_methods.Log -INFO - Test started
+2018-01-18 16:16:16,069 - lib_methods.Log -INFO - Test started
+2018-01-18 17:48:09,234 - lib_methods.Log -INFO - Test started
+2018-01-18 17:59:24,449 - lib_methods.Log -INFO - Test started
+2018-01-18 18:10:23,573 - lib_methods.Log -INFO - Test started
+2018-01-18 18:11:57,649 - lib_methods.Log -INFO - Test started
+2018-01-18 18:40:53,859 - lib_methods.Log -INFO - Test started
+2018-01-18 18:44:59,771 - lib_methods.Log -INFO - Test started
+2018-01-18 18:47:48,190 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:3004: Connection reset
+2018-01-18 18:47:50,601 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://localhost:3004
+2018-01-19 10:08:30,098 - lib_methods.Log -INFO - Test started
+2018-01-19 10:58:59,116 - lib_methods.Log -INFO - Test started
+2018-01-19 11:01:11,243 - lib_methods.Log -INFO - Test started
+2018-01-19 11:09:23,313 - lib_methods.Log -INFO - Test started
+2018-01-19 11:19:34,241 - lib_methods.Log -INFO - Test started
+2018-01-19 11:41:27,811 - lib_methods.Log -INFO - Test started
+2018-01-19 11:41:53,801 - lib_methods.Log -INFO - Test started
+2018-01-19 11:45:18,562 - lib_methods.Log -INFO - Test started
+2018-01-19 11:47:00,264 - lib_methods.Log -INFO - Test started
+2018-01-19 11:53:13,566 - lib_methods.Log -INFO - Test started
+2018-01-19 12:03:11,191 - lib_methods.Log -INFO - Test started
+2018-01-19 12:07:42,019 - lib_methods.Log -INFO - Test started
+2018-01-19 12:09:13,729 - lib_methods.Log -INFO - Test finished
+2018-01-19 12:22:07,084 - lib_methods.Log -INFO - Test started
+2018-01-19 12:23:40,074 - lib_methods.Log -INFO - Test started
+2018-01-19 14:07:21,950 - lib_methods.Log -INFO - Test started
+2018-01-19 14:22:13,198 - lib_methods.Log -INFO - Test started
+2018-01-19 16:42:36,999 - lib_methods.Log -INFO - Test started
+2018-01-19 16:45:33,583 - lib_methods.Log -INFO - Test started
+2018-01-19 16:54:46,114 - lib_methods.Log -INFO - Test finished
+2018-01-19 16:55:21,659 - lib_methods.Log -INFO - Test finished
+2018-01-22 06:31:08,524 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:08,526 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,687 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,687 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,688 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,688 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,692 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,693 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,698 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,699 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,699 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,699 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,715 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,715 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,736 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,737 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:11,738 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:11,738 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,570 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,570 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,572 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,573 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,573 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,575 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,749 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,749 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,750 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,750 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:12,750 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:12,751 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:13,675 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:13,675 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:13,686 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:13,686 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:13,696 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://192.168.5.47:5566: No route to host: connect
+2018-01-22 06:31:13,696 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:15,998 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:15,998 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,010 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,010 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,012 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,012 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,019 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,019 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,069 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,070 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,072 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,073 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,097 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,100 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,101 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,104 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,104 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,105 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,110 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,111 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,112 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,112 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,113 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,113 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,119 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,120 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,121 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,122 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,123 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,124 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,184 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,185 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,185 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,186 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,186 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,186 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,225 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,225 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,236 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,236 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,237 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,237 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,251 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,251 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,252 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,252 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,253 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,253 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,279 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,280 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,281 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,281 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,282 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,282 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,304 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,307 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,318 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,319 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,320 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,320 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,325 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,325 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,326 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,326 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,327 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,328 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,332 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,332 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,333 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,334 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,334 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,335 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,412 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,418 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,419 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,420 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,422 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,423 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,471 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,472 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,473 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,473 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,474 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,474 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,488 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,488 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,489 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,490 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,490 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,491 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,610 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,615 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,617 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,617 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,619 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,619 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,812 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,813 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,813 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,813 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,814 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,814 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,827 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,827 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,828 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,828 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,829 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,829 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,850 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,850 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,851 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,852 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,852 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,853 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,869 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,869 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,870 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,870 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,871 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,871 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,880 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,881 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,882 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,882 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,883 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,883 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,900 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,900 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,901 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,902 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,902 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,903 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,916 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,917 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,917 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,917 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,918 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,918 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,922 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,922 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,923 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,923 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,924 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,924 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,959 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,959 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,960 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,960 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:16,961 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:16,961 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,130 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,130 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,132 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,133 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,133 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,134 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,173 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,173 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,174 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,174 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,175 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,175 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,178 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,179 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,180 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,180 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,191 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,191 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,205 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,205 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,206 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,206 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,206 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,207 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,210 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,211 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,212 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,212 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,213 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,213 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,218 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,218 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,219 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,220 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,221 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,221 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,226 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,226 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,228 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,228 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,229 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,229 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,240 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,240 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,241 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,241 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,242 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,242 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,246 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,247 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,248 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,248 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,249 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,249 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,253 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,254 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,254 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,255 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,255 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,256 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,390 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,390 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,391 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,392 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,392 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,393 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,456 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,457 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,458 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,460 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,461 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,461 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,466 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,466 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,467 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,467 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,468 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,469 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,500 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,500 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,501 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,502 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,503 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,503 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,602 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,602 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,603 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,604 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,605 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,605 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,665 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,665 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,676 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,677 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,677 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,678 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,704 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,704 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,707 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,707 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,708 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,708 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,732 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,732 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,733 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,733 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,744 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,744 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,747 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,747 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,758 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,758 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,759 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,759 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,761 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,761 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,762 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,762 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,762 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,762 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,765 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,765 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,766 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,766 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,766 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,766 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,785 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,785 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,786 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,786 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,787 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,787 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,801 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,801 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,802 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,803 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,804 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,804 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,808 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,808 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,809 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,809 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,810 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,810 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,813 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,813 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,813 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,814 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,824 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,824 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,849 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,849 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,850 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,850 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,851 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,851 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,884 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,884 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,885 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,885 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,886 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.5.47:5566: Network is unreachable: connect
+2018-01-22 06:31:17,886 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://192.168.5.47:5566
+2018-01-22 06:31:17,890 - lib_methods.Log -INFO - Test finished
+2018-01-29 11:16:13,711 - lib_methods.Log -INFO - Test started
+2018-01-29 13:56:57,311 - lib_methods.Log -INFO - Test finished
+2018-01-29 14:06:43,856 - lib_methods.Log -INFO - Test started
+2018-01-29 14:45:29,392 - lib_methods.Log -INFO - Test finished
+2018-01-29 15:41:05,073 - lib_methods.Log -INFO - Test started
+2018-01-29 15:58:22,291 - lib_methods.Log -INFO - Test started
+2018-01-29 16:06:24,226 - lib_methods.Log -INFO - Test finished
+2018-01-29 16:08:18,118 - lib_methods.Log -INFO - Test started
+2018-01-29 16:09:22,238 - lib_methods.Log -INFO - Test finished
+2018-01-29 16:24:07,152 - lib_methods.Log -INFO - Test started
+2018-01-29 16:26:09,324 - lib_methods.Log -INFO - Test started
+2018-01-29 16:51:31,129 - lib_methods.Log -INFO - Test finished
+2018-01-29 17:06:53,192 - lib_methods.Log -INFO - Test started
+2018-01-29 17:11:45,209 - lib_methods.Log -INFO - Test started
+2018-01-29 17:12:58,123 - lib_methods.Log -INFO - Test started
+2018-01-29 17:18:59,823 - lib_methods.Log -INFO - Test started
+2018-01-29 17:30:00,776 - lib_methods.Log -INFO - Test started
+2018-01-29 17:32:38,542 - lib_methods.Log -INFO - Test started
+2018-01-29 17:37:39,140 - lib_methods.Log -INFO - Test started
+2018-01-29 17:44:22,668 - lib_methods.Log -INFO - Test started
+2018-01-29 17:46:25,826 - lib_methods.Log -INFO - Test started
+2018-01-30 10:20:56,385 - lib_methods.Log -INFO - Test started
+2018-01-30 10:46:44,167 - lib_methods.Log -INFO - Test finished
+2018-01-30 11:35:51,764 - lib_methods.Log -INFO - Test started
+2018-01-30 12:19:42,062 - lib_methods.Log -INFO - Test started
+2018-01-30 12:19:42,910 - lib_methods.Log -INFO - Test finished
+2018-01-30 12:20:39,000 - lib_methods.Log -INFO - Test started
+2018-01-30 12:20:39,398 - lib_methods.Log -INFO - Test finished
+2018-01-30 12:21:49,430 - lib_methods.Log -INFO - Test finished
+2018-01-30 12:26:15,994 - lib_methods.Log -INFO - Test started
+2018-01-30 12:29:19,014 - lib_methods.Log -INFO - Test started
+2018-01-30 12:30:44,576 - lib_methods.Log -INFO - Test started
+2018-01-30 12:33:14,786 - lib_methods.Log -INFO - Test started
+2018-01-30 12:34:36,451 - lib_methods.Log -INFO - Test finished
+2018-01-30 12:36:16,284 - lib_methods.Log -INFO - Test started
+2018-01-30 12:37:59,070 - lib_methods.Log -INFO - Test started
+2018-01-30 12:39:24,717 - lib_methods.Log -INFO - Test started
+2018-01-30 12:50:00,471 - lib_methods.Log -INFO - Test finished
+2018-01-30 14:32:13,179 - lib_methods.Log -INFO - Test started
+2018-01-30 16:24:19,730 - lib_methods.Log -INFO - Test started
+2018-01-30 16:24:19,741 - lib_methods.Log -INFO - Test finished
+2018-01-30 16:25:28,984 - lib_methods.Log -INFO - Test started
+2018-01-31 09:56:08,129 - lib_methods.Log -INFO - Test started
+2018-01-31 10:15:05,358 - lib_methods.Log -INFO - Test started
+2018-01-31 10:28:10,995 - lib_methods.Log -INFO - Test started
+2018-01-31 11:32:37,145 - lib_methods.Log -INFO - Test started
+2018-01-31 12:38:56,577 - lib_methods.Log -INFO - Test started
+2018-01-31 12:43:33,760 - lib_methods.Log -INFO - Test started
+2018-01-31 12:45:10,931 - lib_methods.Log -INFO - Test started
+2018-01-31 12:47:28,832 - lib_methods.Log -INFO - Test started
+2018-01-31 12:59:02,930 - lib_methods.Log -INFO - Test started
+2018-01-31 13:00:48,176 - lib_methods.Log -INFO - Test started
+2018-01-31 13:01:36,164 - lib_methods.Log -INFO - Test finished
+2018-01-31 13:03:16,890 - lib_methods.Log -INFO - Test started
+2018-01-31 13:04:53,557 - lib_methods.Log -INFO - Test started
+2018-01-31 13:06:01,204 - lib_methods.Log -INFO - Test started
+2018-01-31 13:06:34,410 - lib_methods.Log -INFO - Test started
+2018-01-31 14:12:21,594 - lib_methods.Log -INFO - Test started
+2018-01-31 14:17:18,778 - lib_methods.Log -INFO - Test started
+2018-01-31 14:19:32,248 - lib_methods.Log -INFO - Test started
+2018-01-31 17:53:35,726 - lib_methods.Log -INFO - Test finished
+2018-01-31 17:58:37,280 - lib_methods.Log -INFO - Test started
+2018-01-31 18:05:39,830 - lib_methods.Log -INFO - Test started
+2018-01-31 18:09:33,967 - lib_methods.Log -INFO - Test started
+2018-01-31 18:15:17,328 - lib_methods.Log -INFO - Test started
+2018-01-31 18:17:27,691 - lib_methods.Log -INFO - Test started
+2018-01-31 18:19:45,040 - lib_methods.Log -INFO - Test started
+2018-01-31 18:22:04,552 - lib_methods.Log -INFO - Test started
+2018-02-01 09:59:19,059 - lib_methods.Log -INFO - Test started
+2018-02-01 10:02:10,188 - lib_methods.Log -INFO - Test started
+2018-02-01 10:48:16,734 - lib_methods.Log -INFO - Test started
+2018-02-01 10:48:37,444 - lib_methods.Log -INFO - Test started
+2018-02-01 10:48:37,715 - lib_methods.Log -INFO - Test finished
+2018-02-01 10:51:33,449 - lib_methods.Log -INFO - Test started
+2018-02-01 10:51:51,791 - lib_methods.Log -INFO - Test started
+2018-02-01 10:51:51,971 - lib_methods.Log -INFO - Test finished
+2018-02-01 10:59:08,279 - lib_methods.Log -INFO - Test started
+2018-02-01 10:59:27,700 - lib_methods.Log -INFO - Test started
+2018-02-01 11:03:28,110 - lib_methods.Log -INFO - Test started
+2018-02-01 11:07:45,540 - lib_methods.Log -INFO - Test started
+2018-02-01 11:11:22,509 - lib_methods.Log -INFO - Test started
+2018-02-01 11:38:03,981 - lib_methods.Log -INFO - Test started
+2018-02-01 11:38:24,825 - lib_methods.Log -INFO - Test started
+2018-02-01 11:43:41,360 - lib_methods.Log -INFO - Test started
+2018-02-01 11:49:18,703 - lib_methods.Log -INFO - Test started
+2018-02-01 11:49:37,788 - lib_methods.Log -INFO - Test started
+2018-02-01 11:49:38,007 - lib_methods.Log -INFO - Test finished
+2018-02-01 11:55:10,842 - lib_methods.Log -INFO - Test started
+2018-02-01 11:55:28,435 - lib_methods.Log -INFO - Test started
+2018-02-01 11:58:51,437 - lib_methods.Log -INFO - Test started
+2018-02-01 12:01:44,538 - lib_methods.Log -INFO - Test finished
+2018-02-01 12:08:44,179 - lib_methods.Log -INFO - Test started
+2018-02-01 12:09:02,511 - lib_methods.Log -INFO - Test started
+2018-02-01 12:14:25,799 - lib_methods.Log -INFO - Test started
+2018-02-01 12:14:44,326 - lib_methods.Log -INFO - Test started
+2018-02-01 12:14:44,515 - lib_methods.Log -INFO - Test finished
+2018-02-01 12:17:17,080 - lib_methods.Log -INFO - Test started
+2018-02-01 12:17:36,168 - lib_methods.Log -INFO - Test started
+2018-02-01 13:28:20,487 - lib_methods.Log -INFO - Test started
+2018-02-01 13:28:37,342 - lib_methods.Log -INFO - Test started
+2018-02-01 13:29:37,824 - lib_methods.Log -INFO - Test started
+2018-02-01 13:31:04,606 - lib_methods.Log -INFO - Test started
+2018-02-01 13:31:20,917 - lib_methods.Log -INFO - Test started
+2018-02-01 13:37:17,069 - lib_methods.Log -INFO - Test started
+2018-02-01 13:37:35,702 - lib_methods.Log -INFO - Test started
+2018-02-01 14:08:37,236 - lib_methods.Log -INFO - Test started
+2018-02-01 14:34:35,788 - lib_methods.Log -INFO - Test started
+2018-02-01 14:34:54,427 - lib_methods.Log -INFO - Test started
+2018-02-01 14:42:02,405 - lib_methods.Log -INFO - Test started
+2018-02-01 14:43:18,205 - lib_methods.Log -INFO - Test started
+2018-02-01 14:55:16,191 - lib_methods.Log -INFO - Test started
+2018-02-01 14:55:35,968 - lib_methods.Log -INFO - Test started
+2018-02-01 14:55:36,138 - lib_methods.Log -INFO - Test finished
+2018-02-01 14:58:46,570 - lib_methods.Log -INFO - Test started
+2018-02-01 14:59:06,594 - lib_methods.Log -INFO - Test started
+2018-02-01 14:59:06,790 - lib_methods.Log -INFO - Test finished
+2018-02-01 14:59:13,664 - lib_methods.Log -INFO - Test started
+2018-02-01 15:07:27,697 - lib_methods.Log -INFO - Test started
+2018-02-01 15:07:46,785 - lib_methods.Log -INFO - Test started
+2018-02-01 15:07:46,923 - lib_methods.Log -INFO - Test finished
+2018-02-01 15:09:12,852 - lib_methods.Log -INFO - Test started
+2018-02-01 15:21:52,994 - lib_methods.Log -INFO - Test started
+2018-02-01 15:37:22,053 - lib_methods.Log -INFO - Test started
+2018-02-01 16:20:52,222 - lib_methods.Log -INFO - Test started
+2018-02-01 16:59:50,212 - lib_methods.Log -INFO - Test finished
+2018-02-01 17:20:01,932 - lib_methods.Log -INFO - Test started
+2018-02-02 06:58:44,183 - lib_methods.Log -INFO - Test finished
+2018-02-02 09:33:04,621 - lib_methods.Log -INFO - Test started
+2018-02-02 09:50:01,481 - lib_methods.Log -INFO - Test started
+2018-02-02 09:50:17,058 - lib_methods.Log -INFO - Test started
+2018-02-02 09:55:44,212 - lib_methods.Log -INFO - Test finished
+2018-02-02 09:56:09,728 - lib_methods.Log -INFO - Test started
+2018-02-02 10:11:13,500 - lib_methods.Log -INFO - Test started
+2018-02-02 10:12:44,360 - lib_methods.Log -INFO - Test started
+2018-02-02 10:21:50,790 - lib_methods.Log -INFO - Test started
+2018-02-02 10:22:25,501 - lib_methods.Log -INFO - Test started
+2018-02-02 10:24:50,948 - lib_methods.Log -INFO - Test started
+2018-02-02 10:28:26,223 - lib_methods.Log -INFO - Test started
+2018-02-02 10:58:56,608 - lib_methods.Log -INFO - Test finished
+2018-02-02 11:09:52,274 - lib_methods.Log -INFO - Test started
+2018-02-02 11:18:04,267 - lib_methods.Log -INFO - Test started
+2018-02-02 11:27:06,839 - lib_methods.Log -INFO - Test started
+2018-02-02 11:54:23,886 - lib_methods.Log -INFO - Test started
+2018-02-02 12:40:47,351 - lib_methods.Log -INFO - Test started

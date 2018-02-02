@@ -2,7 +2,7 @@ package com.pageObject;
 
 import java.time.OffsetTime;
 
-import org.apache.commons.lang3.time.StopWatch;
+import org.apache.commons.lang3.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -11,7 +11,7 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.sikuli.script.FindFailed;
 
-import library.heighlight;
+import lib_methods.heighlight;
 
 public class Score_page {
 	public WebDriver driver;
@@ -37,6 +37,10 @@ public class Score_page {
 	@CacheLookup
 	WebElement Questionimage;
 
+	@FindBy(xpath = ".//*[@id='btnAttemptAgain']")
+	@CacheLookup
+	WebElement Attemptagain;
+
 	public void Worksheettime() {
 		h.h(Worksheettime);
 		String dateandtime = Worksheettime.getText();
@@ -49,7 +53,10 @@ public class Score_page {
 		try {
 			JavascriptExecutor js = (JavascriptExecutor) driver;
 			js.executeScript("window.scrollBy(0,950)", "");
-			backbutton.click();
+			System.out.println("Score page succesfully Loaded ");
+			WebElement back = driver.findElement(By.id("Backanchr"));
+			back.click();
+
 		} catch (Exception e) {
 
 			e.printStackTrace();
@@ -57,9 +64,9 @@ public class Score_page {
 	}
 
 	public void navigateback() {
-		
+
 		WebElement link = driver.findElement(By.xpath(".//*[@id='spnNavigation']/span[5]/a"));
-	
+
 		Boolean b = link.isDisplayed();
 
 		if (b) {
@@ -72,6 +79,10 @@ public class Score_page {
 		else {
 			System.out.println("link not visible");
 		}
+
+	}
+
+	public void verfiy_scorepage() throws InterruptedException {
 
 	}
 

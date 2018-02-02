@@ -1,12 +1,20 @@
 package Test_Cases;
 
+import java.net.MalformedURLException;
+
 import org.testng.annotations.Test;
 
-public class check_images extends configuration.TestNg_Config {
+
+import config.Configuration;
+
+
+public class check_images extends Configuration {
+
+
 
 	public void Login() throws InterruptedException {
 
-		loginpage.Enter_credentials("performance.test", "123456");
+		loginpage.Enter_credentials("siddhartha.student", "123456");
 		loginpage.Click_loginbutton();
 		Thread.sleep(3000);
 	}

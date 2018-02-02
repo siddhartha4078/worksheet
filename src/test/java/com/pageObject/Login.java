@@ -2,12 +2,13 @@ package com.pageObject;
 
 import java.util.concurrent.TimeUnit;
 
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 
-import library.*;
+import lib_methods.*;
 
 public class Login {
 	public WebDriver driver;
@@ -41,6 +42,10 @@ public class Login {
 	@FindBy(xpath = "//*[contains(text(),'Login with your Math2shine account!')]")
 	@CacheLookup
 	WebElement logpagetext;
+
+	@FindBy(xpath = "//*[contains(text(),'Sign Up Now')]")
+	@CacheLookup
+	WebElement signup_button;
 
 	public void Enter_credentials(String uname, String paswd) {
 		h.h(logInUserName);
@@ -81,4 +86,33 @@ public class Login {
 		}
 
 	}
+
+	public void click_singup_button() {
+		h.h(signup_button);
+		signup_button.click();
+
+	}
+
+	public String login_without_credentails() {
+
+		h.h(logInUserName);
+		logInUserName.sendKeys("");
+		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+
+		h.h(logInPassword);
+		logInPassword.sendKeys("");
+
+		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+		h.h(logInButton);
+		logInButton.click();
+		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+		
+		Alert a = driver.switchTo().alert();
+		
+		System.out.println(a);
+		
+		
+		return null;
+	}
+
 }

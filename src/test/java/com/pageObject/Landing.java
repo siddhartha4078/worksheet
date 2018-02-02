@@ -6,17 +6,21 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.sikuli.script.FindFailed;
 import org.sikuli.script.Screen;
 import org.testng.Assert;
 
-import library.*;
+import lib_methods.*;
 
 public class Landing {
 	public WebDriver driver;
 	public heighlight h;
 	public Explicit_timeout e;
 	public Login l;
+	private String url = "https://uatmath2shine.azurewebsites.net/UatWorksheetAlpha/Student/StudentHome/Landing";
+	public WebElement b;
 
 	public Landing(WebDriver dr) {
 		this.driver = dr;
@@ -67,27 +71,35 @@ public class Landing {
 
 	@FindBy(css = "#logOutBtn")
 	WebElement logout;
-	
-	
+
 	@FindBy(partialLinkText = "Online")
 	WebElement classname;
-	
+
 	@FindBy(css = ".chapterWrapper")
 	WebElement search_result;
-	
-	
-	
-	
-	
 
+	public void verify_landingpage() {
+
+		Assert.assertEquals(driver.getCurrentUrl(), url, "Landing page not loaded");
+
+		System.out.println("Landing page succesfully loaded");
+
+	}
 
 	public void Click_on_logo() {
 
 		try {
+			System.out.println("Redirecting to ladning page");
 			h.h(logo);
 			logo.click();
+
+			String acturl = "https://uatmath2shine.azurewebsites.net/PreuatWorksheetAlpha/Student/StudentHome/Landing";
+			String expurl = driver.getCurrentUrl();
+
+			Assert.assertEquals(acturl, expurl, "Redirection fail");
+
 		} catch (StaleElementReferenceException e) {
-		
+
 			e.printStackTrace();
 		}
 	}
@@ -112,6 +124,8 @@ public class Landing {
 		WebElement b = driver.findElement(By.xpath(path));
 		h.h(b);
 		b.click();
+
+
 	}
 
 	public void Click_on_book(String book) {
@@ -129,6 +143,10 @@ public class Landing {
 
 		h.h(Bookandworksheet_hidder);
 		Bookandworksheet_hidder.click();
+
+		WebDriverWait w = new WebDriverWait(driver, 10);
+		w.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("MenuAssignmentType"))));
+
 	}
 
 	public void Click_on_chapter(String c) {
@@ -137,6 +155,9 @@ public class Landing {
 		WebElement sub = driver.findElement(By.xpath(path));
 		h.h(sub);
 		sub.click();
+		
+		WebDriverWait w = new WebDriverWait(driver, 10);
+		w.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("spnNavigation"))));
 	}
 
 	public void search_worksheet(String worksheetname) {
@@ -152,7 +173,8 @@ public class Landing {
 		h.h(searchbutton);
 		searchbutton.click();
 
-		
+		h.h(searchbox);
+		searchbox.clear();
 
 	}
 
@@ -169,44 +191,33 @@ public class Landing {
 		Thread.sleep(4000);
 
 	}
-	
-	public void checkofdeaultclass(){
-		
-		String expected ="Online";
-		
-		String Actucal =  classname.getText();
-		
-		
+
+	public void checkofdeaultclass() {
+
+		String expected = "Online";
+
+		String Actucal = classname.getText();
+
 		Assert.assertEquals(Actucal, expected, "Not default class");
-		
-		
+
 	}
-	
-	public void check_searchrecord(){
-		
+
+	public void check_searchrecord() {
+
 		h.h(search_result);
-		
-		
-		
-		boolean display =search_result.isDisplayed();
-		
-		if (display){
-			
+
+		boolean display = search_result.isDisplayed();
+
+		if (display) {
+
 			System.out.println("Search operation succesfull");
-			
+
+		} else {
+
+			System.err.println("Search operation failed");
+
 		}
-			else{
-				
-				System.err.println("Search operation failed");
-				
-				
-			}
-			
-			
-		}
-		
-		
-		
+
 	}
 
-
+}

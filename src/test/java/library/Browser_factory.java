@@ -19,7 +19,6 @@ public class Browser_factory {
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("disable-infobars");
 			driver = new ChromeDriver(options);
-
 		}
 
 		else if (browser.equalsIgnoreCase("IE")) {
@@ -31,7 +30,6 @@ public class Browser_factory {
 			System.setProperty("webdriver.gecko.driver",firefoxlocation);
 			driver = new FirefoxDriver();
 		}
-
 		return driver;
 
 	}

@@ -9,8 +9,8 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
-import library.Explicit_timeout;
-import library.heighlight;
+import lib_methods.Explicit_timeout;
+import lib_methods.heighlight;
 
 public class Worksheet_delete {
 

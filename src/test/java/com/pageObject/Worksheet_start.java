@@ -1,11 +1,12 @@
 package com.pageObject;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 
-import library.heighlight;
+import lib_methods.heighlight;
 
 public class Worksheet_start {
 
@@ -42,11 +43,23 @@ public class Worksheet_start {
 
 	}
 	
-	public void current_worksheetname(){
+	public String current_worksheetname(){
+		driver.findElement(By.cssSelector("#hWorksheetName>span"));
 		
 		String Worksheetname = WKname.getText();
 		
-		System.err.println("Worksheet name  :"+Worksheetname);
+		
+		return Worksheetname;
+	}
+	
+
+	public String scurrent_worksheetname(){
+		WebElement e=driver.findElement(By.cssSelector("#hWorksheetName>span"));
+		
+		String Worksheetname = e.getText();
+		
+		
+		return Worksheetname;
 	}
 
 }
