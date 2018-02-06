@@ -1,4 +1,4 @@
 UAT HTML = https://uatmath2shine.azurewebsites.net/uatworksheetalpha
 UAT Admin = http://uatmath2shine.azurewebsites.net/uatadmin
 
-*/2 * * * * - cronic pattern
+          */2 * * * * - cronic pattern
