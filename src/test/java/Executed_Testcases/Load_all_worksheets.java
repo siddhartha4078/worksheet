@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 import com.google.common.base.Stopwatch;
 
 import config.Dataset;
-import library.Sikuli_c;
+
 
 public class Load_all_worksheets extends config.Configuration {
 	public WebDriver driver;
@@ -75,7 +75,7 @@ public class Load_all_worksheets extends config.Configuration {
 			Thread.sleep(3000);
 			generationpage.attempt_question(9);
 			Thread.sleep(3000);
-			generationpage.submit(0);
+			generationpage.submit();
 			double t = wp.scorepageLoadtime("Attempt Again");
 
 			try {

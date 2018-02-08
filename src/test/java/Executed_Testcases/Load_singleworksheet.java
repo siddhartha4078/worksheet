@@ -86,12 +86,12 @@ public class Load_singleworksheet extends Configuration {
 			worksheetstartpage.Start_worksheet();
 			System.out.println();
 
-			double qtime = wp.startpageLoadtime();
+			double qtime = wp.Loadtime();
 
 			Thread.sleep(3000);
 			generationpage.attempt_question(9);
 			Thread.sleep(3000);
-			generationpage.submit(0);
+			generationpage.submit();
 			double t = wp.scorepageLoadtime("Attempt Again");
 
 			try {

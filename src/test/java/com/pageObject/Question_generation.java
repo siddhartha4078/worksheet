@@ -24,7 +24,7 @@ import lib_methods.ExcelSheetDriver;
 import lib_methods.Implicit_timeout;
 import lib_methods.heighlight;
 
-public class Question_generation  {
+public class Question_generation {
 	public ExtentReports r;
 	public ExtentTest logger;
 	public WebDriver driver;
@@ -39,6 +39,7 @@ public class Question_generation  {
 	public ExcelSheetDriver e;
 	public String excelpath = "E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\src\\test\\resources\\testoutput.xls";
 	public String sheetname = "sheet1";
+	public int qc;
 
 	public Question_generation(WebDriver dr) throws BiffException, IOException {
 		this.driver = dr;
@@ -76,20 +77,12 @@ public class Question_generation  {
 
 	}
 
-	public void submit(int i) {
+	public void submit() {
 		try {
 			WebElement submit2 = driver.findElement(By.id("btnStart"));
 
-			WebElement activequestion = driver.findElement(By.className("linkActive"));
-			String id = activequestion.getAttribute("id");
-
-			int q = Integer.parseInt(id);
-			q = q + 1;
-			System.out.println("Active question number is:" + "" + q);
-			t.waitfor(1);
 			h.h(submit2);
-			System.out.println("For question attempt no :" + "" + i + 1 + "/// " + "submit button displayed:" + " "
-					+ submit2.isDisplayed());
+
 			submit2.click();
 
 		} catch (Exception e) {
@@ -97,6 +90,18 @@ public class Question_generation  {
 			e.printStackTrace();
 		}
 
+	}
+
+	public int Active_questionnumber() {
+		WebElement activequestion = driver.findElement(By.className("linkActive"));
+		String id = activequestion.getAttribute("id");
+
+		qc = Integer.parseInt(id);
+		qc = qc + 1;
+		System.out.println("Active question number is:" + "" + qc);
+		t.waitfor(1);
+
+		return Questionnumber;
 	}
 
 	public void attempt_question(int qno) {
@@ -245,6 +250,8 @@ public class Question_generation  {
 
 		List<WebElement> Qc = driver.findElements(By.xpath(".//*[@class='overview']/li"));
 		Questionnumber = Qc.size();
+
+		System.out.println("Question count for this worksheet is : " + Questionnumber);
 		return Questionnumber;
 	}
 

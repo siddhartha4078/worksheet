@@ -21,6 +21,7 @@ public class Landing {
 	public Login l;
 	private String url = "https://uatmath2shine.azurewebsites.net/UatWorksheetAlpha/Student/StudentHome/Landing";
 	public WebElement b;
+	public String landingurl = "https://uatmath2shine.azurewebsites.net/PreuatWorksheetAlpha/Student/StudentHome/Landing";
 
 	public Landing(WebDriver dr) {
 		this.driver = dr;
@@ -218,6 +219,12 @@ public class Landing {
 
 		}
 
+	
+		}
+	public boolean navigate_to_landing() {
+
+		driver.navigate().to(landingurl);
+		return false;
 	}
 
 }

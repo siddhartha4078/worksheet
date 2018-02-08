@@ -1,6 +1,5 @@
 package config;
 
-import java.io.IOException;
 import java.net.MalformedURLException;
 import java.time.LocalTime;
 
@@ -11,8 +10,6 @@ import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeSuite;
-import org.testng.annotations.DataProvider;
-
 import com.pageObject.Landing;
 import com.pageObject.Login;
 import com.pageObject.Question_generation;
@@ -23,18 +20,18 @@ import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
-import Executed_Testcases.Solve_all_content;
-import jxl.read.biff.BiffException;
 import lib_methods.Browser_factory;
 import lib_methods.ExcelSheetDriver;
 import lib_methods.Explicit_timeout;
 import lib_methods.Implicit_timeout;
 import lib_methods.Log;
+import lib_methods.Navigate;
 import lib_methods.Screenshot;
 import lib_methods.Scroll;
 import lib_methods.Select_dropdown;
 import lib_methods.Sikuli_c;
 import lib_methods.Wait_for_pageload;
+import lib_methods.pageLoad;
 
 public class Configuration {
 	public static WebDriver driver;
@@ -63,13 +60,15 @@ public class Configuration {
 	public String s1 = "E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\src\\test\\resources\\test.xls";
 	public ExcelSheetDriver excel;
 	public ExcelSheetDriver ex;
+	public pageLoad p;
+	public Navigate Navigate;
 
 	public Configuration() {
 		b = new Browser_factory();
 		try {
 			driver = b.initiate_browser("chrome");
 		} catch (MalformedURLException e1) {
-			// TODO Auto-generated catch block
+
 			e1.printStackTrace();
 		}
 		log = new Log();
@@ -87,6 +86,8 @@ public class Configuration {
 		wp = new Wait_for_pageload(driver);
 		sik = new Sikuli_c(driver);
 		d = new Dataset();
+		p = new pageLoad(driver);
+		Navigate = new Navigate(driver);
 
 	}
 
@@ -95,10 +96,6 @@ public class Configuration {
 
 		driver.get("https://uatmath2shine.azurewebsites.net/preuatWorksheetalpha");
 		driver.manage().window().maximize();
-
-		loginpage.Enter_credentials("siddhartha.student", "123456");
-		loginpage.Click_loginbutton();
-		Thread.sleep(3000);
 
 		try {
 			r = new ExtentReports("E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\report\\report.html");
@@ -118,7 +115,7 @@ public class Configuration {
 		r.endTest(logger);
 		r.flush();
 
-		driver.get("E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\report\\report.html");
+		// driver.get("E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\report\\report.html");
 
 		try {
 
@@ -128,11 +125,10 @@ public class Configuration {
 			System.out.println(e.getMessage());
 
 		}
-		
 
 	}
 
-	@AfterMethod()
+	@AfterMethod(enabled = false)
 	public void tracerror(ITestResult result) {
 		if (result.getStatus() == ITestResult.FAILURE) {
 
@@ -155,9 +151,7 @@ public class Configuration {
 			logger.log(LogStatus.PASS, result.getName() + "--------pass");
 
 		}
-	}
-
-	
 
 	}
 
+}

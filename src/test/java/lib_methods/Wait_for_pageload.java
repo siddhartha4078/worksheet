@@ -4,6 +4,7 @@ import org.apache.commons.lang3.time.StopWatch;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -16,16 +17,6 @@ public class Wait_for_pageload {
 
 		this.driver = dr;
 	}
-	/*
-	 * public void wait_till_pageload() { loadtime = (Long)
-	 * ((JavascriptExecutor) driver)
-	 * .executeScript("return performance.timing.loadEventEnd - performance.timing.navigationStart;"
-	 * );
-	 * 
-	 * System.err.println("Load time is " + loadtime);
-	 * 
-	 * }
-	 */
 
 	public double scorepageLoadtime(String text) {
 		pageLoad = new StopWatch();
@@ -45,7 +36,7 @@ public class Wait_for_pageload {
 
 	}
 
-	public double startpageLoadtime() {
+	public double Loadtime() {
 		pageLoad = new StopWatch();
 		pageLoad.start();
 
@@ -58,6 +49,14 @@ public class Wait_for_pageload {
 		double pageLoadTime_Seconds = pageLoadTime_ms / 1000;
 
 		return pageLoadTime_Seconds;
+
+	}
+
+	public double Loadtime_login() {
+		double loadtime = (Long) ((JavascriptExecutor) driver)
+				.executeScript("return performance.timing.loadEventEnd - performance.timing.navigationStart;");
+		
+		return loadtime/1000;
 
 	}
 

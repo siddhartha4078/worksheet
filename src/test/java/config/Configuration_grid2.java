@@ -4,14 +4,11 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.LocalTime;
 
-import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.ITestResult;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import com.pageObject.Landing;
 import com.pageObject.Login;
@@ -21,8 +18,6 @@ import com.pageObject.Worksheet_list;
 import com.pageObject.Worksheet_start;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
-import com.relevantcodes.extentreports.LogStatus;
-
 import lib_methods.Browser_factory;
 import lib_methods.Explicit_timeout;
 import lib_methods.Implicit_timeout;

@@ -3,6 +3,7 @@ package com.pageObject;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.Alert;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
@@ -14,6 +15,8 @@ public class Login {
 	public WebDriver driver;
 	public heighlight h;
 	public Explicit_timeout e;
+	
+
 
 	public Login(WebDriver dr) {
 		this.driver = dr;
@@ -21,15 +24,14 @@ public class Login {
 	}
 
 	@FindBy(name = "UserName")
-	@CacheLookup
+	
 	WebElement logInUserName;
 
 	@FindBy(name = "Password")
-	@CacheLookup
+
 	WebElement logInPassword;
 
 	@FindBy(css = ".btn.btn-primary")
-	@CacheLookup
 	WebElement logInButton;
 
 	@FindBy(css = "input[type='checkbox']")
@@ -60,6 +62,7 @@ public class Login {
 
 		h.h(logInButton);
 		logInButton.click();
+
 	}
 
 	public void verify_loginpage() {
@@ -106,13 +109,14 @@ public class Login {
 		h.h(logInButton);
 		logInButton.click();
 		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
-		
+
 		Alert a = driver.switchTo().alert();
-		
+
 		System.out.println(a);
-		
-		
+
 		return null;
 	}
+
+	
 
 }
