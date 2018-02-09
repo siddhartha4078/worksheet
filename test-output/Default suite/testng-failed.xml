@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Performance_Testcases.P_worksheetlist">
+      <class name="Performance_Testcases.P_Worksheet_start">
         <methods>
-          <include name="Login"/>
+          <include name="calculate_avg"/>
           <include name="teardown"/>
           <include name="Openbrowser"/>
         </methods>
-      </class> <!-- Performance_Testcases.P_worksheetlist -->
+      </class> <!-- Performance_Testcases.P_Worksheet_start -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,12 +1,8 @@
 package Performance_Testcases;
 
 import java.io.IOException;
-import java.time.LocalTime;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
-import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.sikuli.script.FindFailed;
 import org.testng.annotations.DataProvider;
@@ -23,6 +19,7 @@ public class P_Worksheet_start extends config.Configuration {
 	public Stopwatch pageLoad;
 	private String excelpath = "E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\src\\test\\resources\\TestData\\worksheetlist.xls";
 	private String sheetname = "Testdata";
+	static List<Double> result;
 
 	public void click_on_image() throws InterruptedException {
 
@@ -51,38 +48,26 @@ public class P_Worksheet_start extends config.Configuration {
 
 	}
 
-	public void click_on_worksheet(String w) throws InterruptedException, FindFailed {
+	public double click_on_worksheet(String w) throws InterruptedException, FindFailed {
 
 		worksheetlistpage.Click_on_worksheet(w);
+
+		String Worksheetname = worksheetstartpage.current_worksheetname();
 
 		worksheetstartpage.Start_worksheet();
 
 		double load = p.response();
 
-		List<Double> result = new ArrayList();
+		System.out.println("Worksheet name"+" : "+Worksheetname);
+		
+		System.err.println("response time" + " :" + load + " " + "Sec");
 
-		result.add(load);
+		System.out.println("*************************************");
+		
+		Thread.sleep(2000);
+	
 
-	}
-
-	public void calculate_avg() throws FindFailed {
-
-		List<Double> result = new ArrayList();
-		double v[] = new double[10];
-
-		for (int i = 0; i < 10; i++) {
-
-			double load = p.response();
-
-			result.add(load);
-
-			int j = i + 1;
-
-			v[i] = result.get(i);
-
-			System.out.println(Thread.currentThread().getStackTrace()[1].getMethodName() + " :" + j + "  "
-					+ "responce time" + " :" + v[i] + " " + "Sec");
-		}
+		return load;
 
 	}
 
@@ -106,12 +91,12 @@ public class P_Worksheet_start extends config.Configuration {
 	public void TEST(String a, String b, String c, String w) throws IOException, InterruptedException, FindFailed {
 
 		try {
-
 			click_on_image();
 			click_on_assignmenttype(a);
 			click_on_book(b);
 			click_on_chapter(c);
 			click_on_worksheet(w);
+			Thread.sleep(2000);
 			navigate_back();
 
 		} catch (Exception e) {
