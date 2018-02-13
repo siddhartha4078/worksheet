@@ -5,7 +5,7 @@
 	<artifactId>com.worksheet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<suiteXmlFile>E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\error.xml</suiteXmlFile>
+		<suiteXmlFile>E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\testng.xml</suiteXmlFile>
 	</properties>
 
 	<!-- Dependencies -->
@@ -49,7 +49,11 @@
 			<artifactId>commons-io</artifactId>
 			<version>1.3.2</version>
 		</dependency>
-
+	<dependency>
+			<groupId>ru.yandex.qatools.ashot</groupId>
+			<artifactId>ashot</artifactId>
+			<version>1.5.3</version>
+		</dependency>
 		
 		<dependency>
 			<groupId>net.sourceforge.jexcelapi</groupId>

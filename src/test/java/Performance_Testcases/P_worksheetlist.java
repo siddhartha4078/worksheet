@@ -58,7 +58,7 @@ public class P_worksheetlist extends config.Configuration {
 		String f = String.format("%.2f", sum);
 		System.out.println();
 
-		System.err.println("*********Average responce time" + ":" + f + " " + "**********");
+		System.err.println("*********Average response time" + ":" + f + " " + "**********");
 
 	}
 }

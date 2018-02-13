@@ -94,7 +94,7 @@ public class Configuration {
 	@BeforeSuite
 	public void Openbrowser() throws InterruptedException {
 
-		driver.get("https://uatmath2shine.azurewebsites.net/preuatWorksheetalpha");
+		driver.get("http://192.169.154.191/worksheet/worksheetalpha");
 		driver.manage().window().maximize();
 
 		try {
@@ -119,7 +119,7 @@ public class Configuration {
 
 		try {
 
-			Thread.sleep(5000);
+		
 
 		} catch (Exception e) {
 			System.out.println(e.getMessage());

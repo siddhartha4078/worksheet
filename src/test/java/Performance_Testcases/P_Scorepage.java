@@ -72,7 +72,7 @@ public class P_Scorepage extends config.Configuration {
 			generationpage.attempt_question(9);
 			Thread.sleep(3000);
 			generationpage.submit();
-			double t = wp.scorepageLoadtime("Attempt Again");
+			double t = p.response();
 
 			try {
 

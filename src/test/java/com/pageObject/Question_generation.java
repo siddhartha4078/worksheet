@@ -251,7 +251,7 @@ public class Question_generation {
 		List<WebElement> Qc = driver.findElements(By.xpath(".//*[@class='overview']/li"));
 		Questionnumber = Qc.size();
 
-		System.out.println("Question count for this worksheet is : " + Questionnumber);
+		//System.out.println("Question count for this worksheet is : " + Questionnumber);
 		return Questionnumber;
 	}
 

@@ -22,11 +22,13 @@ import lib_methods.Browser_factory;
 import lib_methods.Explicit_timeout;
 import lib_methods.Implicit_timeout;
 import lib_methods.Log;
+import lib_methods.Navigate;
 import lib_methods.Screenshot;
 import lib_methods.Scroll;
 import lib_methods.Select_dropdown;
 import lib_methods.Sikuli_c;
 import lib_methods.Wait_for_pageload;
+import lib_methods.pageLoad;
 
 public class Configuration_grid2 {
 	public static WebDriver driver;
@@ -53,6 +55,8 @@ public class Configuration_grid2 {
 	public Sikuli_c sik;
 	public Dataset d;
 	public String node = "http://192.168.5.68:5566/wd/hub";
+	public Navigate Navigate;
+	public pageLoad p;
 
 	public Configuration_grid2() {
 
@@ -62,6 +66,8 @@ public class Configuration_grid2 {
 		capability.setPlatform(org.openqa.selenium.Platform.WINDOWS);
 		try {
 			driver = new RemoteWebDriver(new URL(node), capability);
+			driver.get("https://uatmath2shine.azurewebsites.net/PreuatWorksheetAlpha/");
+			driver.manage().window().maximize();
 		} catch (MalformedURLException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -82,24 +88,10 @@ public class Configuration_grid2 {
 		wp = new Wait_for_pageload(driver);
 		sik = new Sikuli_c(driver);
 		d = new Dataset();
+		Navigate = new Navigate(driver);
+		p = new pageLoad(driver);
 	}
 
-	@AfterTest
-	public void teardown() throws InterruptedException {
-
-		log.tracelog("Test finished");
-		r.endTest(logger);
-		r.flush();
-
-		try {
-
-			Thread.sleep(5000);
-
-		} catch (Exception e) {
-			System.out.println(e.getMessage());
-
-		}
-
-	}
+	
 
 }
