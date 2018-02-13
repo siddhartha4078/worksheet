@@ -1,8 +1,9 @@
-package Performance_Testcases;
+package Performance_Testcases_grid;
 
 import java.io.IOException;
-import java.util.List;
+import java.time.LocalTime;
 
+import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.sikuli.script.FindFailed;
 import org.testng.annotations.DataProvider;
@@ -13,13 +14,12 @@ import com.google.common.base.Stopwatch;
 
 import jxl.read.biff.BiffException;
 
-public class P_Worksheet_start extends config.Configuration {
+public class G_P_Scorepage extends config.Configuration_grid2 {
 	public WebDriver driver;
-	static double load;
+	public double iteration1, iteration2, iteration3, avgs, Starttime1, Starttime2, Starttime3, start, avg2;
 	public Stopwatch pageLoad;
 	private String excelpath = "E:\\Siddhartha\\Projects\\Automation-neon\\com.worksheet\\src\\test\\resources\\TestData\\worksheetlist.xls";
 	private String sheetname = "Testdata";
-	static List<Double> result;
 
 	public void click_on_image() throws InterruptedException {
 
@@ -48,37 +48,88 @@ public class P_Worksheet_start extends config.Configuration {
 
 	}
 
-	public double click_on_worksheet(String w) throws InterruptedException, FindFailed {
+	public void click_on_worksheet(String w) throws InterruptedException, FindFailed {
 
-		worksheetlistpage.Click_on_worksheet(w);
+		for (int i = 1; i < 4; i++) {
 
-		String Worksheetname = worksheetstartpage.current_worksheetname();
+			worksheetlistpage.Click_on_worksheet(w);
 
-		worksheetstartpage.Start_worksheet();
+			if (i == 1) {
+				String wkname = worksheetstartpage.current_worksheetname();
+				System.err.println("Current worksheet:" + " " + wkname);
+				
+				System.out.println();
+			}
 
-		double load = p.response();
+			System.out.println("Attempt:" + i + " " + "******" + "Started at" + "-" + LocalTime.now());
 
-		System.out.println("Worksheet name"+" : "+Worksheetname);
-		
-		System.err.println("response time" + " :" + load + " " + "Sec");
+			Thread.sleep(3000);
 
-		System.out.println("*************************************");
-		
-		Thread.sleep(2000);
+			worksheetstartpage.Start_worksheet();
+			int k = generationpage.check_questioncount();
+
+			Thread.sleep(3000);
+			generationpage.attempt_question(9);
+			Thread.sleep(3000);
+			generationpage.submit();
+			double t = p.response();
+
+			try {
+
+				Scorepage.navigateback();
+
+			} catch (StaleElementReferenceException e) {
+
+				e.printStackTrace();
+			}
+
+			Thread.sleep(3000);
+
+			while (i == 1) {
+
+				iteration1 = t;
+
+				System.out.println("scoretime is--" + "" + iteration1);
+				System.out.println();
+
+				break;
+			}
+
+			while (i == 2) {
+
+				iteration2 = t;
+
+				System.out.println("scoretime is--" + "" + iteration2);
+				System.out.println();
+
+				break;
+			}
+
+			while (i == 3) {
+
+				iteration3 = t;
+				System.out.println("scoretime is--" + "" + iteration3);
+				System.out.println();
+
+				landingpage.navigate_to_landing();
+				break;
+
+			}
+
+		}
+
+	}
+
+	public void calculate_avg() throws FindFailed {
+
+		avg2 = (iteration2 + iteration3 + iteration1) / 3;
+
+		System.err.println("Average score time is---" + "" + String.format("%.2f", avg2));
+		System.out.println("--------------------------------------------");
+
+	}
 	
-
-		return load;
-
-	}
-
-	public void navigate_back() throws InterruptedException {
-		Navigate.navigate_to(
-				"https://uatmath2shine.azurewebsites.net/PreuatWorksheetAlpha/Student/StudentHome/Landing");
-		Thread.sleep(2000);
-
-	}
-
-	@Test(priority = 1)
+	@Test(priority=1)
 	public void Login() throws InterruptedException {
 
 		loginpage.Enter_credentials("live.student", "123456");
@@ -87,17 +138,18 @@ public class P_Worksheet_start extends config.Configuration {
 
 	}
 
-	@Test(dataProvider = "Search data", priority = 2)
+
+	@Test(dataProvider = "Search data",priority=2)
 	public void TEST(String a, String b, String c, String w) throws IOException, InterruptedException, FindFailed {
 
 		try {
+			
 			click_on_image();
 			click_on_assignmenttype(a);
 			click_on_book(b);
 			click_on_chapter(c);
 			click_on_worksheet(w);
-			Thread.sleep(2000);
-			navigate_back();
+			calculate_avg();
 
 		} catch (Exception e) {
 
