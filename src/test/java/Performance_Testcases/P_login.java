@@ -17,6 +17,8 @@ public class P_login extends  config.Configuration {
 
 	@Test
 	public void Login() throws InterruptedException {
+		
+		String pass=pwd.encrypt_preuat();
 
 		List<Double> result = new ArrayList();
 		double v[] = new double[10];
@@ -25,7 +27,7 @@ public class P_login extends  config.Configuration {
 		
 		for (int i = 0; i < 10; i++) {
 
-			loginpage.Enter_credentials("live.student", "123456");
+			loginpage.Enter_credentials("live.student", new String(pass));
 			loginpage.Click_loginbutton();
 			
 		

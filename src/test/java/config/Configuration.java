@@ -62,6 +62,7 @@ public class Configuration {
 	public ExcelSheetDriver ex;
 	public pageLoad p;
 	public Navigate Navigate;
+	public passwords pwd;
 
 	public Configuration() {
 		b = new Browser_factory();
@@ -88,6 +89,7 @@ public class Configuration {
 		d = new Dataset();
 		p = new pageLoad(driver);
 		Navigate = new Navigate(driver);
+		pwd = new passwords();
 
 	}
 
